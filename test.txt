@@ -1,7 +1,0 @@
-this is test page
-또 다시 수정합니다
-<<<<<<< Updated upstream
-저가 헸음
-=======
-한번더 수정
->>>>>>> Stashed changes
